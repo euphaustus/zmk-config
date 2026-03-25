@@ -1,0 +1,5 @@
+- move dial movements?
+- make new layers:
+	- numpad, calc layout
+- check corne mappings
+- mouse/scroll keys
