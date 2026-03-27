@@ -154,7 +154,7 @@ My personal config now.
 &trans  &trans    &trans     &trans      &trans       &trans                             &trans     &trans         &trans    &trans          &trans         &trans
 &trans  &trans    &trans     &trans      &trans       &trans                             &kp PG_UP  &kp LC(LEFT)   &kp UP    &kp LC(RIGHT)   &kp LC(BSPC)   &kp BSPC
 &trans  &trans    &trans     &trans      &trans       &kp CLCK                           &kp PG_DN  &kp LEFT       &kp DOWN  &kp RIGHT       &kp DEL        &kp BSPC
-&trans  &kp LC(Z) &kp LC(X)  &kb LC(C)   &kp LC(V)    &trans   &kp LC(TAB)   &trans      &trans     &kp HOME       &trans    &kp END         &trans         &trans
+&trans  &kp LC(Z) &kp LC(X)  &kp LC(C)   &kp LC(V)    &trans   &kp LC(TAB)   &trans      &trans     &kp HOME       &trans    &kp END         &trans         &trans
                   &trans     &trans      &trans       &trans   &trans        &trans      &trans     &trans         &trans    &trans
             >;
             // Left encoder: Ctrl+Tab / Ctrl+Shift+Tab (tab switching) on RAISE
