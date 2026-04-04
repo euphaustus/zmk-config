@@ -68,7 +68,7 @@ behaviors {
                 
                 gaming_layer {
                   status = "reserved";
-                }
+                };
 
 
 
