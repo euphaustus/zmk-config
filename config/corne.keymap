@@ -10,6 +10,13 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/ext_power.h>
 
+#define QWERTY 0
+#define GAMING 1
+#define LOWER 2
+#define RAISE 3
+#define EXTRA1 4
+#define EXTRA2 5
+#define ADJUST 6
 
 / {
 
