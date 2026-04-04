@@ -14,6 +14,11 @@
 / {
 
   
+  chosen {
+    zmk,matrix-transform = &default_transform;
+  };
+
+
    conditional_layers {
        compatible = "zmk,conditional-layers";
        adjust_layer {
